@@ -1,6 +1,12 @@
 import React, { useState } from "react";
 import "./NavBar.css";
-import { FaBars, FaTimes, FaLinkedin, FaTwitter } from "react-icons/fa";
+import {
+  FaBars,
+  FaTimes,
+  FaLinkedin,
+  FaTwitter,
+  FaWhatsapp,
+} from "react-icons/fa";
 
 import { Link } from "react-scroll";
 import { AiFillGithub } from "react-icons/ai";
@@ -24,6 +30,11 @@ const NavBar = () => {
       icon: AiFillGithub,
       link: "https://github.com/techbone",
     },
+    {
+      name: "WhatsApp",
+      icon: FaWhatsapp,
+      link: "https://wa.link/ozf807",
+    },
   ];
 
   const tabs = [
@@ -46,7 +57,11 @@ const NavBar = () => {
   ];
   return (
     <div className="Nav">
-      <h1 className="logo">M.M.A</h1>
+      <span className="cursor-pointer">
+        <Link to="home">
+          <h1 className="logo">M.M.A</h1>
+        </Link>
+      </span>
       {/* menu */}
       <div>
         <ul className="hidden md:flex">

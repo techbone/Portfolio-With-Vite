@@ -13,7 +13,7 @@ const Home = () => {
         <p className="text-[#8892b0] py-4 max-w-[700px]">
           I'm a Frontend developer specializing in building (and occasionally
           designing) exceptional digital experience for both web & mobile. I aim
-          at building responsive web applications.
+          at building responsive web & mobile Applications.
         </p>
 
         <button className="button group text-white">
