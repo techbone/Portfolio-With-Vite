@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import "./Work.css";
-import hulu from "/images/hulu.png";
-import musarestaurant from "/images/musarestaurant.png";
-import etudayeTouristSite from "/images/touristsite.png";
+import hulu from "/Images/hulu.png";
+import musarestaurant from "/Images/musarestaurant.png";
+import etudayeTouristSite from "/Images/TouristSite.png";
 const Work = () => {
   return (
     <div className="work">
