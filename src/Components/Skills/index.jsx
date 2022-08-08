@@ -17,7 +17,7 @@ const Skills = () => {
         <div className="technologys">
           <div className="shadow-sm shadow-[#040c16] hover:scale-110 duration-300 py-4 flex items-center flex-col  justify-center">
             <img
-              src="/public/Images/reactlanative.webp"
+              src="/Images/reactlanative.webp"
               alt=""
               className="w-20 mx-auto"
             />
@@ -28,11 +28,7 @@ const Skills = () => {
             <p className="text-center mt-2">CSS</p>
           </div>
           <div className="shadow-sm shadow-[#040c16] hover:scale-110 duration-300 py-4 flex flex-col items-center  justify-center ">
-            <img
-              src="/public/Images/javascript.png"
-              alt=""
-              className="w-20 mx-auto"
-            />
+            <img src="/Images/javascript.png" alt="" className="w-20 mx-auto" />
             <p className="text-center mt-2">JAVASCRIPT</p>
           </div>
           <div className="shadow-sm shadow-[#040c16] hover:scale-110 duration-300 py-4  ">
@@ -48,11 +44,7 @@ const Skills = () => {
             <p className="text-center mt-2">TYPESCRIPT</p>
           </div>
           <div className="shadow-sm shadow-[#040c16] hover:scale-110 duration-300 py-4  flex items-center flex-col justify-center">
-            <img
-              src="/public/Images/react.png"
-              alt=""
-              className="w-20 mx-auto"
-            />
+            <img src="/Images/react.png" alt="" className="w-20 mx-auto" />
             <p className="text-center mt-2">REACT</p>
           </div>
           <div className="shadow-sm shadow-[#040c16] hover:scale-110 duration-300 py-4  flex items-center flex-col justify-center">
@@ -61,7 +53,7 @@ const Skills = () => {
           </div>
           <div className="shadow-sm shadow-[#040c16] hover:scale-110 duration-300 py-4 flex items-center justify-center flex-col">
             <img
-              src="/public/Images/react-redux.png"
+              src="/Images/react-redux.png"
               alt=""
               className="w-20 mx-auto"
             />
@@ -69,7 +61,7 @@ const Skills = () => {
           </div>
           <div className="shadow-sm shadow-[#040c16] hover:scale-110 duration-300 py-4 flex items-center flex-col  justify-center">
             <img
-              src="/public/Images/netlify_light.png"
+              src="/Images/netlify_light.png"
               alt=""
               className="w-20 mx-auto"
             />
