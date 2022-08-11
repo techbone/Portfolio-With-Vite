@@ -16,19 +16,19 @@ const NavBar = () => {
 
   let socialLinks = [
     {
-      name: "LinkedIn",
-      icon: FaLinkedin,
-      link: "https://www.linkedin.com/in/musa-etudaye-a2b552217/",
-    },
-    {
       name: "Twitter",
       icon: FaTwitter,
-      link: "http://twitter.com/etudaye_tech",
+      link: "http://twitter.com/weebahmard",
     },
     {
       name: "Github",
       icon: AiFillGithub,
       link: "https://github.com/techbone",
+    },
+    {
+      name: "LinkedIn",
+      icon: FaLinkedin,
+      link: "https://www.linkedin.com/in/musa-etudaye-a2b552217/",
     },
     {
       name: "WhatsApp",
@@ -59,7 +59,10 @@ const NavBar = () => {
     <div className="Nav">
       <span className="cursor-pointer">
         <Link to="home">
-          <h1 className="logo">M.M.A</h1>
+          <h1 className="logo">
+            Gandalf
+            <FaTwitter />
+          </h1>
         </Link>
       </span>
       {/* menu */}

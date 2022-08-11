@@ -74,3 +74,4 @@ const Skills = () => {
 };
 
 export default Skills;
+5;
