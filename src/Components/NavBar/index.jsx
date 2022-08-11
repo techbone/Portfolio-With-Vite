@@ -79,7 +79,7 @@ const NavBar = () => {
       </div>
       {/* handburger */}
       <div className=" md:hidden z-10" onClick={() => setNav(!nav)}>
-        {!nav ? <FaTimes /> : <FaBars />}
+        {!nav ? <FaBars /> : <FaTimes />}
       </div>
 
       {/* mobile menu */}
