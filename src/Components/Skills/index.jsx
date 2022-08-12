@@ -55,14 +55,6 @@ const Skills = () => {
             />
             <p className="text-center mt-2">REACT-REDUX</p>
           </div>
-          <div className="shadow-sm shadow-[#040c16] hover:scale-110 duration-300 py-4 flex items-center flex-col  justify-center">
-            <img
-              src="/Images/netlify_light.png"
-              alt=""
-              className="w-20 mx-auto"
-            />
-            <p className="text-center mt-2">NETLIFY</p>
-          </div>
         </div>
       </div>
     </div>
