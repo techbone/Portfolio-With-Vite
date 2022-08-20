@@ -18,7 +18,7 @@ const Skills = () => {
           <div className="shadow-sm shadow-[#040c16] hover:scale-110 duration-300 py-4 flex items-center flex-col  justify-center">
             <img
               src="/Images/reactlanative.webp"
-              alt=""
+              alt="reactnativewebpimage"
               className="w-20 mx-auto"
             />
             <p className="text-center mt-2">REACT-NATIVE</p>
