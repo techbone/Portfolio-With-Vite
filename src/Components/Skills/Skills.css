@@ -1,5 +1,5 @@
 .skills {
-  @apply bg-[#0a192f] h-full w-full flex justify-center items-center;
+  @apply bg-[#0a192f]  w-full flex justify-center items-center;
 }
 .skills__container {
   @apply flex  flex-col mx-auto p-4 max-w-[1000px] w-full h-full justify-center text-gray-300;
