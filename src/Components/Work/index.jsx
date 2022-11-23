@@ -36,7 +36,7 @@ const Work = () => {
                 TheMoviesDatabase(TMDB)
               </p>
               <div className="pt-4 text-center">
-                <a href="https://hulu-v2-0-chi.vercel.app/">
+                <a href="https://hulu-v2-0-chi.vercel.app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
@@ -71,7 +71,7 @@ const Work = () => {
                 TheMoviesDatabase(TMDB)
               </p>
               <div className="pt-4 text-center">
-                <a href="https://react-app-soft.vercel.app/">
+                <a href="https://react-app-soft.vercel.app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
@@ -106,7 +106,7 @@ const Work = () => {
                 your application has been granted.
               </p>
               <div className="pt-4 text-center">
-                <a href="https://github.com/techbone">
+                <a href="https://github.com/techbone" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
