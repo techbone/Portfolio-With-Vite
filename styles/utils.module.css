@@ -1,0 +1,11 @@
+.image {
+  animation: rise 2.5s ease-in-out infinite alternate;
+}
+@keyframes rise {
+  0% {
+    transform: translateY(20px);
+  }
+  100% {
+    transform: translateY(-20px);
+  }
+}
