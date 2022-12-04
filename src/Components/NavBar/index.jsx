@@ -78,7 +78,12 @@ const NavBar = () => {
         </ul>
       </div>
       {/* handburger */}
-      <div className=" md:hidden z-10" onClick={() => setNav(!nav)}>
+      <div
+        className={`${
+          !nav ? "mr-1" : "mr-0"
+        } md:hidden z-10 transition-all duration-500 drop-shadow-sm`}
+        onClick={() => setNav(!nav)}
+      >
         {!nav ? <FaBars /> : <FaTimes />}
       </div>
 
