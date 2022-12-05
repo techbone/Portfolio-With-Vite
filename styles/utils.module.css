@@ -1,5 +1,5 @@
 .image {
-  animation: rise 2.50s ease-in-out infinite alternate;
+  animation: rise 2.5s ease-in-out infinite alternate;
 }
 @keyframes rise {
   0% {
