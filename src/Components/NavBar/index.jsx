@@ -121,7 +121,7 @@ const NavBar = () => {
                 } flex items-center justify-between   w-full text-base font-[600] px-2 text-gray-300 `}
                 target="_blank"
               >
-                <p>{name}</p> <Icon size={30.0} />
+                <p>{name}</p> <Icon size={30} />
               </a>
             </li>
           ))}
