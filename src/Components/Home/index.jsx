@@ -11,7 +11,7 @@ const Home = () => {
         <p className="text-pink-700 font-bold leading-6">Hi, my name is</p>
         <h1 className="name">Musa Muhammad Awwal</h1>
         <h2 className="description">I'm a Front End Developer</h2>
-        <p className="text-[#8892b0] py-4 max-w-[700px]">
+        <p className="text-[#8892b0]  max-w-[700px]">
           I'm a Frontend developer specializing in building (and occasionally
           designing) exceptional digital experience for both web & mobile. I aim
           at building responsive web & mobile Applications.
