@@ -26,7 +26,7 @@ const Home = () => {
       <div className="w-[18rem] sm:w-[28rem]">
         <img
           className={`${styled.image} rounded-full`}
-          src="http://www.diginextechnologies.com/images/creative_graphic_designing_company_ludhiana_punjab_india.gif"
+          src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif"
           alt="codeer"
         />
       </div>
