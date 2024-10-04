@@ -1,5 +1,5 @@
 .About {
-  @apply w-full h-screen bg-[#0a192f] text-gray-300;
+  @apply w-full h-[50%] bg-[#0a192f] text-gray-300;
 }
 .about__container {
   @apply flex flex-col justify-center items-center w-full h-full;
